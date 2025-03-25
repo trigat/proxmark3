@@ -64,6 +64,7 @@ This project uses the changelog in accordance with [keepchangelog](http://keepac
 - Added Dutch Statistics Agency default key (@eagle00789)
 - Fixed Wiegand decode with hex input dropping the first bit (@emilyastranova)
 - Changed `hf mf autopwn` - now allows for custom suffix (@zxkmm)
+- Added `des_talk.py` - script to simplify interactions with DESFire (@Trigat)
 
 ## [Orca.4.19552][2024-11-22]
 - Fixed `hf_legic.lua` - removed bit32 commands from the script (@diorch1968)
